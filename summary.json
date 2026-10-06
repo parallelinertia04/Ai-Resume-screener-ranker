@@ -1,0 +1,7 @@
+{
+  "total_resumes": 50,
+  "successfully_parsed": 50,
+  "eligible": 39,
+  "rejected": 11,
+  "failed": 0
+}
